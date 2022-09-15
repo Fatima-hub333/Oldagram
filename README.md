@@ -1,17 +1,16 @@
-![](https://img.shields.io/badge/GoogleClone-blueviolet)
+![](https://img.shields.io/badge/Oldagram-blueviolet)
 
-# Google_clone
-It's static google clone built with HTML, CSS
+# Oldagram
+It's a clone of Instagram built with HTML5 & CSS
 
-![screenshot](Google_Clone.png)
+![screenshot](images/preview-oldagram.png)
 
 ## [LiveDemo] 
-(https://zesty-smakager-1f2b9d.netlify.app)
+(https://guileless-otter-aba18a.netlify.app)
 
 ## Built With
 
 - HTML, CSS
-- JavaScript
 - Stylelint, Web Hint, Lighthouse
 
 
@@ -24,10 +23,10 @@ Basic knowledge of HTML, CSS.
 ### Setup
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
 
-[Download the ZIP from this location](https://github.com/Fatima-hub333/Google_clone/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+[Download the ZIP from this location](https://github.com/Fatima-hub333/Oldagram/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
 ```bash
-git clone https://github.com/Fatima-hub333/Google_clone.git
+git clone https://github.com/Fatima-hub333/Oldagram.git
 ```
 
 - Once the files are on your machine, open the _Portfolio_ folder in [Visual Studio Code](https://code.visualstudio.com/).
@@ -54,7 +53,7 @@ The following tools help make easier to work with sample code.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Fatima-hub333/Google_clone/issues).
+Feel free to check the [issues page](https://github.com/Fatima-hub333/Oldagram/issues).
 
 ## Show your support
 
